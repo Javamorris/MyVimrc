@@ -1,7 +1,7 @@
 set nocompatible
 filetype indent plugin on
 syntax on
-colo koehler
+colo ron
 set wildmenu
 set showcmd
 set hlsearch
