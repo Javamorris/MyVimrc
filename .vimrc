@@ -75,6 +75,6 @@ set splitbelow
 set splitright
 
 " open command line with vim
-term
-res 20
-bp
+" term
+" res 20
+" bp
