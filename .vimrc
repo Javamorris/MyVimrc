@@ -1,5 +1,5 @@
 set nocompatible
-filetype indent plugin on
+filetype plugin on
 syntax on
 colo ron
 set wildmenu
